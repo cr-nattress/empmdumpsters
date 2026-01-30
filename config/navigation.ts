@@ -13,19 +13,19 @@ export const mainNav = [
     ],
   },
   {
-    title: 'Dumpster Sizes',
+    title: 'Sizes',
     href: '/sizes',
   },
   {
-    title: 'What Goes In?',
+    title: 'Guidelines',
     href: '/what-goes-in',
   },
   {
-    title: 'For Contractors',
+    title: 'Contractors',
     href: '/contractors',
   },
   {
-    title: 'About Us',
+    title: 'About',
     href: '/about',
   },
   {
