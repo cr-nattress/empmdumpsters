@@ -83,7 +83,7 @@ export function Header() {
             <nav className="hidden lg:flex items-center gap-1">
               {mainNav.map((item) => (
                 <div
-                  key={item.href}
+                  key={item.title}
                   className="relative"
                   onMouseEnter={() => item.children && setOpenDropdown(item.title)}
                   onMouseLeave={() => setOpenDropdown(null)}
