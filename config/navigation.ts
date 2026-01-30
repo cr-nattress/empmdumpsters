@@ -17,6 +17,14 @@ export const mainNav = [
     href: '/sizes',
   },
   {
+    title: 'What Goes In?',
+    href: '/what-goes-in',
+  },
+  {
+    title: 'For Contractors',
+    href: '/contractors',
+  },
+  {
     title: 'About Us',
     href: '/about',
   },
@@ -37,6 +45,7 @@ export const footerNav = {
     { title: '12-Yard Dumpster', href: '/sizes#12-yard' },
     { title: '20-Yard Dumpster', href: '/sizes#20-yard' },
     { title: 'Compare Sizes', href: '/sizes' },
+    { title: 'What Can Go In?', href: '/what-goes-in' },
   ],
   company: [
     { title: 'About Us', href: '/about' },

@@ -1,6 +1,7 @@
 import {
   Hero,
   Services,
+  Guarantee,
   SizePreview,
   HowItWorks,
   Testimonials,
@@ -14,6 +15,7 @@ export default function HomePage() {
     <>
       <Hero />
       <Services />
+      <Guarantee />
       <SizePreview />
       <HowItWorks />
       <Testimonials />

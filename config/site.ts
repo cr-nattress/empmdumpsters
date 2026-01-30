@@ -55,7 +55,8 @@ export const siteConfig = {
       dimensions: "12' × 8' × 4'",
       capacity: '4-5 pickup truck loads',
       trashBags: '60-80 bags',
-      weight: 'Contact for details',
+      weight: '2 tons',
+      weightLimit: '2 tons included',
       price: null, // Call for quote
       idealFor: ['Basement cleanout', 'Garage declutter', 'Small renovation', 'Yard waste cleanup'],
       color: 'blue',
@@ -65,7 +66,8 @@ export const siteConfig = {
       dimensions: "22' × 8' × 4.5'",
       capacity: '8 pickup truck loads',
       trashBags: '110-130 bags',
-      weight: 'Contact for details',
+      weight: '3 tons',
+      weightLimit: '3 tons included',
       price: null, // Call for quote
       popular: true,
       idealFor: ['Full home cleanout', 'Kitchen remodel', 'Roofing project', 'Estate cleanout', 'Construction debris'],

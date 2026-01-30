@@ -15,7 +15,7 @@ const steps = [
     number: '02',
     icon: Truck,
     title: 'We Deliver',
-    description: 'We\'ll drop off your dumpster right where you need it. Same-day delivery available in most areas.',
+    description: 'We\'ll drop off your dumpster right where you need it. We place protective boards to protect your driveway. Same-day delivery available.',
   },
   {
     number: '03',
