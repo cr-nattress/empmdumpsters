@@ -11,8 +11,31 @@
 
 ---
 
+## What's New? Old vs. New Website
+
+This redesigned website replaces the previous site at empmdumpsters.com. Here's what customers will notice:
+
+| Feature | Old Website | New Website |
+|---------|-------------|-------------|
+| **Finding Information** | Basic 4-page site (Home, About, Services, Contact) | 10+ pages with dedicated sections for sizes, guidelines, contractors, and more |
+| **Getting a Quote** | Contact form only | Multi-step quote wizard that guides you through the process |
+| **Choosing a Dumpster Size** | No size guide | Interactive size comparison with dimensions, capacity, and project recommendations |
+| **Knowing What's Allowed** | Not mentioned | Full "Guidelines" page listing accepted and prohibited items |
+| **Pricing Transparency** | No pricing info | "No Hidden Fees Guarantee" with clear breakdown of what's included |
+| **For Contractors** | No contractor info | Dedicated page with volume pricing, priority scheduling, and account setup |
+| **Service Areas** | Not listed | All 19 cities served are clearly displayed |
+| **Common Questions** | No FAQ | Expandable FAQ section answering the most common questions |
+| **Mobile Experience** | Basic responsive | Fully optimized with sticky call button and touch-friendly navigation |
+| **Speed & Performance** | Template-based | Modern framework with fast loading and smooth animations |
+| **Trust Signals** | One testimonial | Customer reviews, years in business, and satisfaction guarantees throughout |
+
+**Bottom line:** The new site makes it easier for customers to understand services, choose the right dumpster, and get a quote — all without having to call first (though they still can!).
+
+---
+
 ## Table of Contents
 
+- [What's New?](#whats-new-old-vs-new-website)
 - [About](#about)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
