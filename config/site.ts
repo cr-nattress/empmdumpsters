@@ -29,7 +29,7 @@ export const siteConfig = {
   
   // Social links
   social: {
-    facebook: 'https://www.facebook.com/people/EMPM-Dumpsters-LLC/100078114813045/',
+    facebook: 'https://www.facebook.com/p/EMPM-Dumpsters-LLC-100078114813045/',
   },
   
   // Contact
